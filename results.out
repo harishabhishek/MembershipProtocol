@@ -1,0 +1,21 @@
+============================================
+Grading Started
+============================================
+Single Failure Scenario
+============================
+Checking Join..................10/10
+Checking Completeness..........10/10
+Checking Accuracy..............10/10
+============================================
+Multi Failure Scenario
+============================
+Checking Join..................10/10
+Checking Completeness..........10/10
+Checking Accuracy..............10/10
+============================================
+Message Drop Single Failure Scenario
+============================
+Checking Join..................10/10
+Checking Completeness..........10/10
+============================================
+Final Grade 80/80
